@@ -1,0 +1,28 @@
+[
+    {
+        "id": "00_test_problem_1-s1-h1",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "1"
+        ],
+        "dependencies": [],
+        "title": "Test arithmetic",
+        "text": "Answer is 1"
+    },
+    {
+        "id": "00_test_problem_1-s1-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "numeric",
+        "hintAnswer": [
+            "2"
+        ],
+        "dependencies": [
+            "00_test_problem_1-s1-h1"
+        ],
+        "title": "Test numeric",
+        "text": "Answer is 2"
+    }
+]

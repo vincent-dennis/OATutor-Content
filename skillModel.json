@@ -23,12 +23,10 @@
     "zzzzz_git002a": [
         "basic_git_operations"
     ],
-
-     "zzzzz_git003a": [
+    "zzzzz_git003a": [
         "basic_git_operations"
-    ]
-    ,
-        "zzzzz_git004a": [
+    ],
+    "zzzzz_git004a": [
         "basic_git_operations"
     ],
     "zzzzz_gg1": [
@@ -37,14 +35,30 @@
     "zzzzz_gg2": [
         "european_continent"
     ],
-    "zzzzz_gg3": ["regional_geography"],
-    "zzzzz_gg4": ["cultural_literacy"],
-    "zzzzz_gg5": ["cultural_literacy"],
-    "zzzzz_gg6": ["civic_knowledge"],
-    "zzzzz_gg7": ["geographical_orientation"],
-    "zzzzz_gg8": ["general_knowledge"],
-    "zzzzz_gg9": ["cultural_literacy"],
-    "zzzzz_gg10": ["regional_geography"],
+    "zzzzz_gg3": [
+        "regional_geography"
+    ],
+    "zzzzz_gg4": [
+        "cultural_literacy"
+    ],
+    "zzzzz_gg5": [
+        "cultural_literacy"
+    ],
+    "zzzzz_gg6": [
+        "civic_knowledge"
+    ],
+    "zzzzz_gg7": [
+        "geographical_orientation"
+    ],
+    "zzzzz_gg8": [
+        "general_knowledge"
+    ],
+    "zzzzz_gg9": [
+        "cultural_literacy"
+    ],
+    "zzzzz_gg10": [
+        "regional_geography"
+    ],
     "latex001a": [
         "latex_technicals"
     ],
@@ -66,16 +80,16 @@
         "formulars",
         "keywords"
     ],
-     "latex007a": [
+    "latex007a": [
         "keywords"
     ],
-     "latex008a": [
+    "latex008a": [
         "latex_technicals"
     ],
-     "latex009a": [
+    "latex009a": [
         "keywords"
     ],
-     "latex010a": [
+    "latex010a": [
         "keywords"
     ],
     "latex011a": [
@@ -84,7 +98,7 @@
     "latex012a": [
         "keywords"
     ],
-     "latex013a": [
+    "latex013a": [
         "keywords"
     ],
     "latex014a": [
@@ -124,7 +138,6 @@
     "zzzzz_greek001a": [
         "basic_greek_concepts"
     ],
-    
     "zzzzz_greek002a": [
         "basic_greek_concepts"
     ],
@@ -191,7 +204,7 @@
         "conceptual_integration",
         "generalization_understanding"
     ],
-        "zzzzzz_drive01a": [
+    "zzzzzz_drive01a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],
@@ -202,7 +215,7 @@
     "zzzzzz_drive03a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
-    ],    
+    ],
     "zzzzzz_drive03b": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
@@ -211,17 +224,22 @@
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],
-
-	"zzzzzz_drive05a": [
+    "zzzzzz_drive05a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],
-    "zzzzzz_drive05b":[
+    "zzzzzz_drive05b": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
     ],
-	"zzzzzz_drive06a": [
+    "zzzzzz_drive06a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
+    ],
+    "00_test_problem_1-s1": [
+        "test_skill_1"
+    ],
+    "00_test_problem_2-s1": [
+        "test_skill_2"
     ]
 }
