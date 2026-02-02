@@ -98,5 +98,11 @@
                 }
             }
         ]
+    },
+    {
+        "courseName": "Python Course",
+        "courseOER": "",
+        "courseLicense": "",
+        "lessons": []
     }
 ]
