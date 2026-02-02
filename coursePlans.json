@@ -98,22 +98,5 @@
                 }
             }
         ]
-    },
-    {
-        "courseName": "Testing Course",
-        "courseOER": "",
-        "courseLicense": "",
-        "lessons": [
-            {
-                "id": "Test Lesson 1",
-                "name": "Test Lesson",
-                "topics": "Lesson for testing",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "test_skill_1": 0.95,
-                    "test_skill_2": 0.95
-                }
-            }
-        ]
     }
 ]

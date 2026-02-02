@@ -226,17 +226,5 @@
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
-    },
-    "test_skill_1": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "test_skill_2": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
     }
 }
