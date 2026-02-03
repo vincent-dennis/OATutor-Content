@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python5-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Exact match",
+        "text": "Match capitalization, comma, and exclamation mark."
+    },
+    {
+        "id": "python5-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python5-s1-h1"
+        ],
+        "title": "Use print()",
+        "text": "Use print(\"Hello, world!\")"
+    }
+]

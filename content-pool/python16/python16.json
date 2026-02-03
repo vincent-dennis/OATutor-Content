@@ -1,0 +1,7 @@
+{
+    "id": "python16",
+    "title": "Order lines to sum 1..3",
+    "body": "Reorder the lines to compute the sum 1 + 2 + 3 using a loop and print the total.",
+    "lesson": "Control Flow: Booleans, Comparisons, If, Loops",
+    "courseName": "Python Course"
+}

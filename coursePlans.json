@@ -127,17 +127,6 @@
                     "for_loops_basics": 0.85,
                     "trace_simple_loops": 0.85
                 }
-            },
-            {
-                "id": "py_lesson_3",
-                "name": "Lists and Functions: Basics",
-                "topics": "",
-                "allowRecycle": true,
-                "learningObjectives": {
-                    "list_index": 0.85,
-                    "basic_list_operations": 0.85,
-                    "python_function_basics": 0.85
-                }
             }
         ]
     }

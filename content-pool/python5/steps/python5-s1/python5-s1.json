@@ -1,0 +1,11 @@
+{
+    "id": "python5-s1",
+    "stepAnswer": [
+        "Hello, world!"
+    ],
+    "problemType": "Code",
+    "stepTitle": "Target output",
+    "stepBody": "Produce the output exactly as shown (same capitalization and punctuation. One line):\n\nHello, world!",
+    "answerType": "string",
+    "choices": []
+}

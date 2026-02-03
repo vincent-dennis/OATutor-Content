@@ -1,0 +1,24 @@
+[
+    {
+        "id": "python10-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Increment by 1",
+        "text": "Each loop increases x by 1."
+    },
+    {
+        "id": "python10-s1-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "1"
+        ],
+        "dependencies": [
+            "python10-s1-h1"
+        ],
+        "title": "Scaffold: one-step loop trace",
+        "text": "Trace a simpler loop with one iteration, then extend the idea. Start with x = 0, then run x = x + 1 once. Enter x.",
+        "choices": []
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "id": "python7-s1",
+    "stepAnswer": [
+        "x = 10",
+        "print(x)"
+    ],
+    "problemType": "DragDrop",
+    "stepTitle": "Reorder the code lines",
+    "stepBody": "Arrange the lines into a valid program that prints 10.",
+    "answerType": "DragDrop",
+    "choices": [
+        "print(x)",
+        "x = 10"
+    ]
+}

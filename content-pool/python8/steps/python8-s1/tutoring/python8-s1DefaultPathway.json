@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python8-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Compute before print",
+        "text": "The total must exist before printing it."
+    },
+    {
+        "id": "python8-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python8-s1-h1"
+        ],
+        "title": "Assignment first",
+        "text": "Variable must have an assigned value to be used in an arithmetic expression."
+    }
+]

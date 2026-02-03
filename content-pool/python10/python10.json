@@ -1,0 +1,7 @@
+{
+    "id": "python10",
+    "title": "Trace a while loop variable",
+    "body": "Determine the final value of x after the code runs.",
+    "lesson": "Control Flow: Booleans, Comparisons, If, Loops",
+    "courseName": "Python Course"
+}

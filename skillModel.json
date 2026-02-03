@@ -235,5 +235,59 @@
     "zzzzzz_drive06a": [
         "traffic_signs_and_signals",
         "rules_of_the_road"
+    ],
+    "python1-s1": [
+        "arithmetic_operator_precedence"
+    ],
+    "python2-s1": [
+        "string_basics"
+    ],
+    "python3-s1": [
+        "string_basics",
+        "print_statements"
+    ],
+    "python4-s1": [
+        "create_variables"
+    ],
+    "python5-s1": [
+        "print_statements"
+    ],
+    "python6-s1": [
+        "create_variables",
+        "print_statements"
+    ],
+    "python7-s1": [
+        "create_variables",
+        "print_statements"
+    ],
+    "python8-s1": [
+        "arithmetic_operator_precedence",
+        "create_variables",
+        "print_statements"
+    ],
+    "python9-s1": [
+        "evaluate_boolean_expression"
+    ],
+    "python10-s1": [
+        "trace_simple_loops"
+    ],
+    "python11-s1": [
+        "evaluate_boolean_expression"
+    ],
+    "python12-s1": [
+        "for_loops_basics"
+    ],
+    "python13-s1": [
+        "if_else"
+    ],
+    "python14-s1": [
+        "for_loops_basics"
+    ],
+    "python15-s1": [
+        "if_else"
+    ],
+    "python16-s1": [
+        "for_loops_basics",
+        "trace_simple_loops"
     ]
 }

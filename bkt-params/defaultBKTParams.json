@@ -274,23 +274,5 @@
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
-    },
-    "list_index": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "basic_list_operations": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
-    },
-    "python_function_basics": {
-        "probMastery": 0.1,
-        "probTransit": 0.1,
-        "probSlip": 0.1,
-        "probGuess": 0.1
     }
 }

@@ -1,0 +1,11 @@
+{
+    "id": "python13-s1",
+    "stepAnswer": [
+        "even"
+    ],
+    "problemType": "Code",
+    "stepTitle": "Target output for n = 4",
+    "stepBody": "Produce the correct single-line output for n = 4 using if/else logic.",
+    "answerType": "string",
+    "choices": []
+}

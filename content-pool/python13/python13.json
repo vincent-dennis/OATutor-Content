@@ -1,0 +1,7 @@
+{
+    "id": "python13",
+    "title": "If/else output",
+    "body": "Write code that sets n = 4 and prints \"even\" if n is even, otherwise prints \"odd\".",
+    "lesson": "Control Flow: Booleans, Comparisons, If, Loops",
+    "courseName": "Python Course"
+}

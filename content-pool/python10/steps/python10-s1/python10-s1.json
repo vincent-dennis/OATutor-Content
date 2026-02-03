@@ -1,0 +1,11 @@
+{
+    "id": "python10-s1",
+    "stepAnswer": [
+        "3"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Final value of x",
+    "stepBody": "x = 0\\nwhile x < 3:\\n    x = x + 1\\nTrace the loop until the condition x < 3 becomes false. Enter the final number stored in x.",
+    "answerType": "arithmetic",
+    "choices": []
+}

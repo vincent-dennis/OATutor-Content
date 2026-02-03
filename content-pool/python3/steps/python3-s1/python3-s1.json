@@ -1,0 +1,16 @@
+{
+    "id": "python3-s1",
+    "stepAnswer": [
+        "34"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Choose the printed output",
+    "stepBody": "Pick the exact output of print(\"3\" + \"4\").",
+    "answerType": "string",
+    "choices": [
+        "7",
+        "34",
+        "3 4",
+        "Error"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": "python1",
+    "title": "Arithmetic with precedence",
+    "body": "Compute the value of 3 + 4 * 2 using Python operator precedence. Enter the final number.",
+    "lesson": "Python Basics: Output, Variables, Numbers, Strings",
+    "courseName": "Python Course"
+}

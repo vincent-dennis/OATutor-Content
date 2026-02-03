@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python12-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "range(5) length",
+        "text": "range(5) produces 5 values: 0,1,2,3,4."
+    },
+    {
+        "id": "python12-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python12-s1-h1"
+        ],
+        "title": "One print per value",
+        "text": "The loop runs once per value from range(5)."
+    }
+]

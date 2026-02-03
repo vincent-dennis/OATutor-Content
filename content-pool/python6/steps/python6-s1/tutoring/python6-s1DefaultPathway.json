@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python6-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "No extra text",
+        "text": "Print only the number."
+    },
+    {
+        "id": "python6-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python6-s1-h1"
+        ],
+        "title": "Write the following three statements (separated by ;) on separated lines, without the ;",
+        "text": "a = 5; b = 2; print(a + b)"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "id": "python15-s1",
+    "stepAnswer": [
+        "if x > 10:",
+        "print(\"big\")",
+        "else:",
+        "print(\"small\")"
+    ],
+    "problemType": "DragDrop",
+    "stepTitle": "Reorder control-flow lines",
+    "stepBody": "Arrange into a valid and correct if/else block. Assume correct indentation of code.",
+    "answerType": "DragDrop",
+    "choices": [
+        "else:",
+        "if x > 10:",
+        "print(\"small\")",
+        "print(\"big\")"
+    ]
+}

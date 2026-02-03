@@ -1,0 +1,16 @@
+{
+    "id": "python12-s1",
+    "stepAnswer": [
+        "5"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Number of iterations",
+    "stepBody": "Choose the count of loop iterations.\\n\\nfor i in range(5):\\n    print(i)",
+    "answerType": "string",
+    "choices": [
+        "4",
+        "5",
+        "6",
+        "It depends"
+    ]
+}

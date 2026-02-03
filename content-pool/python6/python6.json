@@ -1,0 +1,7 @@
+{
+    "id": "python6",
+    "title": "Variables and arithmetic output",
+    "body": "Write Python code that sets a = 5, b = 2, then prints a + b on one line.",
+    "lesson": "Python Basics: Output, Variables, Numbers, Strings",
+    "courseName": "Python Course"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "python8-s1",
+    "stepAnswer": [
+        "total = 3",
+        "total = total + 4",
+        "print(total)"
+    ],
+    "problemType": "DragDrop",
+    "stepTitle": "Reorder the code lines",
+    "stepBody": "Arrange the lines into a valid program that prints 7.",
+    "answerType": "DragDrop",
+    "choices": [
+        "print(total)",
+        "total = 3",
+        "total = total + 4"
+    ]
+}

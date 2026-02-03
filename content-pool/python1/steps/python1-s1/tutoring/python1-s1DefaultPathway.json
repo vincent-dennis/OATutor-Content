@@ -1,0 +1,24 @@
+[
+    {
+        "id": "python1-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Multiply before add",
+        "text": "Python evaluates multiplication before addition."
+    },
+    {
+        "id": "python1-s1-h2",
+        "type": "scaffold",
+        "problemType": "TextBox",
+        "answerType": "arithmetic",
+        "hintAnswer": [
+            "14"
+        ],
+        "dependencies": [
+            "python1-s1-h1"
+        ],
+        "title": "Scaffold: precedence mini-check",
+        "text": "Compute 2 + 3 * 4, by doing 3 * 4 first, then adding 2.",
+        "choices": []
+    }
+]

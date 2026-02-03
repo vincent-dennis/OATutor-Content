@@ -1,0 +1,14 @@
+{
+    "id": "python9-s1",
+    "stepAnswer": [
+        "True"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Compute boolean result",
+    "stepBody": "Evaluate 5 > 3 to True or False.",
+    "answerType": "string",
+    "choices": [
+        "True",
+        "False"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "id": "python14",
+    "title": "For loop printing",
+    "body": "Write Python code that prints the numbers 1, 2, 3 each on its own line using a for loop.",
+    "lesson": "Control Flow: Booleans, Comparisons, If, Loops",
+    "courseName": "Python Course"
+}

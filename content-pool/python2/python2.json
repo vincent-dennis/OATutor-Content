@@ -1,0 +1,7 @@
+{
+    "id": "python2",
+    "title": "String concatenation",
+    "body": "Concatenate the strings \"py\" and \"thon\" exactly as Python would using +. Enter the resulting string.",
+    "lesson": "Python Basics: Output, Variables, Numbers, Strings",
+    "courseName": "Python Course"
+}

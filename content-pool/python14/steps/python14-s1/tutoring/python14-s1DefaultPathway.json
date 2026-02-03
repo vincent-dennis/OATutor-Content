@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python14-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Use range",
+        "text": "range(1, 4) gives 1,2,3."
+    },
+    {
+        "id": "python14-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python14-s1-h1"
+        ],
+        "title": "One print per iteration",
+        "text": "Print the loop variable inside the loop."
+    }
+]

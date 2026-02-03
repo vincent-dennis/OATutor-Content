@@ -1,0 +1,7 @@
+{
+    "id": "python9",
+    "title": "Evaluate a comparison",
+    "body": "Evaluate the expression 5 > 3. Enter the exact Python boolean value.",
+    "lesson": "Control Flow: Booleans, Comparisons, If, Loops",
+    "courseName": "Python Course"
+}

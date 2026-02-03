@@ -1,0 +1,7 @@
+{
+    "id": "python3",
+    "title": "String vs number addition",
+    "body": "Select the output produced by this code: print(\"3\" + \"4\").",
+    "lesson": "Python Basics: Output, Variables, Numbers, Strings",
+    "courseName": "Python Course"
+}

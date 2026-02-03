@@ -1,0 +1,11 @@
+{
+    "id": "python1-s1",
+    "stepAnswer": [
+        "11"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Evaluate the expression",
+    "stepBody": "Calculate 3 + 4 * 2 as Python would.",
+    "answerType": "arithmetic",
+    "choices": []
+}

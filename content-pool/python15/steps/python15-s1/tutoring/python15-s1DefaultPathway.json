@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python15-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "If/else structure",
+        "text": "The print under if runs when the condition is true; the print under else runs otherwise."
+    },
+    {
+        "id": "python15-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python15-s1-h1"
+        ],
+        "title": "else comes after if block",
+        "text": "Write the if line, then its body, then else, then its body."
+    }
+]

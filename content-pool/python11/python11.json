@@ -1,0 +1,7 @@
+{
+    "id": "python11",
+    "title": "Logical AND result",
+    "body": "Select the result of (True and False) in Python.",
+    "lesson": "Control Flow: Booleans, Comparisons, If, Loops",
+    "courseName": "Python Course"
+}

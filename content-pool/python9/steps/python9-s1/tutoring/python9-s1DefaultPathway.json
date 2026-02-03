@@ -1,0 +1,9 @@
+[
+    {
+        "id": "python9-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Greater than",
+        "text": "a > b is True if a is greater than b."
+    }
+]

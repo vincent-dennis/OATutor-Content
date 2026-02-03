@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python7-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Define before use",
+        "text": "The variable must be created and assigned before it is printed."
+    },
+    {
+        "id": "python7-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python7-s1-h1"
+        ],
+        "title": "Two-line program",
+        "text": "First assignment, then print."
+    }
+]

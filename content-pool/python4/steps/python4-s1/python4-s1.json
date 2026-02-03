@@ -1,0 +1,16 @@
+{
+    "id": "python4-s1",
+    "stepAnswer": [
+        "my_name"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Identify a valid identifier",
+    "stepBody": "Choose the valid variable name in Python.",
+    "answerType": "string",
+    "choices": [
+        "2cats",
+        "my-name",
+        "my_name",
+        "class"
+    ]
+}

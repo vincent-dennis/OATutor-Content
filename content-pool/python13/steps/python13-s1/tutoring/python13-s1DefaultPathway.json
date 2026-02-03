@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python13-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Use modulo",
+        "text": "Check n % 2 == 0 for even."
+    },
+    {
+        "id": "python13-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python13-s1-h1"
+        ],
+        "title": "Print one word",
+        "text": "Print exactly even or false."
+    }
+]

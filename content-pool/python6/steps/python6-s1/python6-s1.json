@@ -1,0 +1,11 @@
+{
+    "id": "python6-s1",
+    "stepAnswer": [
+        "7"
+    ],
+    "problemType": "Code",
+    "stepTitle": "Print the sum",
+    "stepBody": "Assign the variables and print the sum result.",
+    "answerType": "string",
+    "choices": []
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python3-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Quotes mean string",
+        "text": "\"3\" and \"4\" are strings, not numbers."
+    },
+    {
+        "id": "python3-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python3-s1-h1"
+        ],
+        "title": "Plus with strings",
+        "text": "With strings, + concatenates."
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "python4-s1-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Starts with a letter or underscore",
+        "text": "Variable names cannot start with a digit."
+    },
+    {
+        "id": "python4-s1-h2",
+        "type": "hint",
+        "dependencies": [
+            "python4-s1-h1"
+        ],
+        "title": "No hyphens, avoid keywords",
+        "text": "Hyphens (-) are not allowed, and keywords like class cannot be used."
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "id": "python2-s1",
+    "stepAnswer": [
+        "python"
+    ],
+    "problemType": "TextBox",
+    "stepTitle": "Join two strings",
+    "stepBody": "Compute \"py\" + \"thon\".",
+    "answerType": "string",
+    "choices": []
+}

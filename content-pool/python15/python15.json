@@ -1,0 +1,7 @@
+{
+    "id": "python15",
+    "title": "Order lines to build an if/else",
+    "body": "Reorder the lines to print \"big\" when x > 10, otherwise print \"small\". Assume x is already defined.",
+    "lesson": "Control Flow: Booleans, Comparisons, If, Loops",
+    "courseName": "Python Course"
+}

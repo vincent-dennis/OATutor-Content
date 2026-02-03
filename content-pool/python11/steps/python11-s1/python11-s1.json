@@ -1,0 +1,16 @@
+{
+    "id": "python11-s1",
+    "stepAnswer": [
+        "False"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Choose the boolean result",
+    "stepBody": "Pick the value of x if x = True and False.",
+    "answerType": "string",
+    "choices": [
+        "True",
+        "False",
+        "Error",
+        "None"
+    ]
+}
