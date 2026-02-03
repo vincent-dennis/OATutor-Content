@@ -1,7 +1,7 @@
 {
     "id": "python14-s1",
     "stepAnswer": [
-        "1\\n2\\n3"
+        "1\n2\n3"
     ],
     "problemType": "Code",
     "stepTitle": "Target output (three lines)",
